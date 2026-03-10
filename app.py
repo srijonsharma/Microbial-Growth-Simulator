@@ -106,4 +106,4 @@ else:
 
 # --- FOOTER ---
 st.markdown("---")
-st.markdown("Developed with Love by Srijon")
+st.markdown("Developed with Love by **Srijon**")
