@@ -18,12 +18,13 @@ A Python-based simulation tool that models bacterial population growth over time
 - `main.py`: Interactive entry point of the simulation.
 - `growth_models.py`: Mathematical logic for population growth and environmental impacts.
 - `visualization.py`: Handles graphical plotting and tabular data displays.
+- `app.py`: Streamlit-based web application.
 
 ## Installation
 Ensure you have Python installed, then install the necessary dependencies:
 
 ```bash
-pip install numpy matplotlib
+pip install -r requirements.txt
 ```
 
 ## Usage
