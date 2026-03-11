@@ -52,3 +52,9 @@ This project is ready for deployment on **Streamlit Cloud**:
 1. Upload the files to a GitHub repository.
 2. Connect the repository to [Streamlit Cloud](https://streamlit.io/cloud).
 3. Set the entry point to `app.py`.
+
+
+The app is already deployed for use in the following URL:
+```bash
+https://microbial-growth-simulator.streamlit.app
+```
